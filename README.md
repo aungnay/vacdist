@@ -55,5 +55,5 @@ DEAP used Chapter 7 (Introduction to evolutionary algorithms) of Back, Fogel and
 It’s based on Genetic algorithms, Evolution strategies, and Evolutionary programming methods.
 You can tweak the parameters to use it as Simple Genetic Algorith, which is how I have used it for this project.
 
-#### eaSimple Pesudocode
-
+#### eaSimple Pseudocode
+![Image of esSimple Pseudocode](./img/eaSimple.png)
