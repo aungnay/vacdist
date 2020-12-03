@@ -64,3 +64,19 @@ where:
 - Θ_r (theta_r): recombination/crossover criterion
 - Θ_m (theta_m): mutation criterion
 - Θ_s (theta_s): selection criterion
+
+## Findings
+### SGA Parameters (Population)
+Started with population parameters based on Alajmi & Wright's finding showing it has higher impact on fitness than other parameters.
+|  | Set 1 | Set 2 | Set 3 | Set 4 | Set 5 | Set 6 | Set 7 |
+| --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
+| Genes | 10 | 10 | 10 | 10 | 10 | 10 |
+| Population | 5 | 15 | 30 | 50 | 100 | 200 | 300 |
+| crossover | 1-pt (0.75) | 1-pt (0.75) | 1-pt (0.75) | 1-pt (0.75) | 1-pt (0.75) | 1-pt (0.75) | 1-pt (0.75) |
+| Mutation | Uni (0.1) | Uni (0.1) | Uni (0.1) | Uni (0.1) | Uni (0.1) | Uni (0.1) | Uni (0.1) |
+| Selection | Roulette | Roulette | Roulette | Roulette | Roulette | Roulette | Roulette |
+| Generations | 500 | 500 | 500 | 500 | 500 | 150 | 100 |
+| HallOfFame | None | None | None | None | None | None | None |
+| CPU Time (Sec) | 68 | 242 | 508 | 843 | 1693 | 1022 | 1020 |
+| Best Solution | 9.2e+08 | 2.9e+09 | 2.8e+09 | 5.0e+09 | 6.0e+09 | 8.9e+09 | 9.1e+09 |
+| Converge Gen | 9 | 4 | 24 | 37 | 27 | 55 | 79 |
