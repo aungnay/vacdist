@@ -94,4 +94,5 @@ Here, we can observe from the table that the best solution has a positive correl
 - Essex County ,  Massachusetts (10th)
 - Middlesex County ,  Massachusetts (13th)
 - Cook County ,  Illinois (11th)
+
 As we can see, the list includes 5 FIPS areas with the top 10 worst risk, from all the FIPS areas in 50 states as well as District of Columbia, with exception of areas with NaN rows from CovidActNow. This is an expected result with Genetic Algorithms. GA doesn't produce the perfect optimal solution. But it does however get very close to the optimal solution.
