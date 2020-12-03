@@ -80,6 +80,7 @@ Started with population parameters based on Alajmi & Wright's finding showing it
 | CPU Time (Sec) | 68 | 242 | 508 | 843 | 1693 | 1022 | 1020 |
 | Best Solution | 9.2e+08 | 2.9e+09 | 2.8e+09 | 5.0e+09 | 6.0e+09 | 8.9e+09 | 9.1e+09 |
 | Converge Gen | 9 | 4 | 24 | 37 | 27 | 55 | 79 |
+
 ![Image of Set 7 Run 2](./img/Figure_07b.png)
 The above image shows the stats from the Set 7 Run 2.
 Here, we can observe from the table that the best solution has a positive correlation to the change in population. The same can be said about the CPU time as well. Below are the counties as well as their risk rank that was generated as the best solution on Set 7 Run 2.
