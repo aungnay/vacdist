@@ -57,3 +57,10 @@ You can tweak the parameters to use it as Simple Genetic Algorith, which is how 
 
 #### eaSimple Pseudocode
 ![Image of esSimple Pseudocode](./img/eaSimple.png)
+where:
+- µ (mu): parent
+- λ (lamda): child
+- Θ_ι (theta_iota): termination criterion
+- Θ_r (theta_r): recombination/crossover criterion
+- Θ_m (theta_m): mutation criterion
+- Θ_s (theta_s): selection criterion
