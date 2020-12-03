@@ -100,3 +100,17 @@ We can also observe from the table that the best solution and CPU time has a pos
 
 ![Image of Fitness Vs. CPU Time over Generations](./img/fitnessCPUtime.png)
 We can see here that there is a diminishing returns to fitness with regards to running additional generations. However the CPU time is a linear relation. Meaning that there will be a point where it's not worth adding additional generations to get better fitness results as the cost of CPU time will not give us similar level of returns anymore.
+
+## References
+Alajmi, A., & Wright, J. (2014, June). Selecting the most efficient genetic algorithm sets in solving unconstrained building optimization problem. International Journal of Sustainable Built Environment, 3(1), 18-26.
+Bäck, T. (2000). Introduction to evolutionary algorithms. In Evolutionary Computation 1 Basic Algorithms and Operators. Bristol, United Kingdom: Institute of Physics.
+Blickle, T., & Thiele, L. (1995, July). A Mathematical Analysis of Tournament Selection. Proceedings of the 6th International Conference on Genetic Algorithms (ICGA95), 9-16.
+Centers for Disease Control and Prevention. (2020, August 18). COVID-19 Hospitalization and Death by Age. Retrieved from Centers for Disease Control and Prevention: https://www.cdc.gov/coronavirus/2019-ncov/covid-data/investigations-discovery/hospitalization-death-by-age.html
+CovidActNow. (2020). Tools. Retrieved from CovidActNow: https://covidactnow.org/tools
+Gad, A. (2020). GeneticAlgorithmPython. Retrieved from GitHub: https://github.com/ahmedfgad/GeneticAlgorithmPython
+Haupt, R. L., & Haupt, S. E. (2004). Practical Genetic Algorithms. Hoboken, New Jersey: John Wiley & Sons.
+McGowan, C. (2017, March 9). Genetic Algorithms: Tournament Selection. Retrieved from Medium: https://medium.com/@c4lv1nmcg0wan/genetic-algorithms-tournament-selection-b150bc76f0d8
+Patel, R., Longini, I. M., Jr, & Halloran, M. E. (2005). Finding optimal vaccination strategies for pandemic influenza using genetic algorithms. Journal of theoretical biology, 234(2), 201–212. https://doi.org/10.1016/j.jtbi.2004.11.032
+Rainville, F.-M. d., Fortin, F.-A., Gagné, C., Gagnon, O., Gardner, M.-A., Grenier, S., . . . Parizeau, M. (2020). DEAP. Retrieved from GitHub: https://github.com/deap/deap
+Song, C. (2019). Decision_Making_with_GA_using_DEAP. Retrieved from GitHub: https://github.com/daydrill/ga_pycon_2016_apac/blob/master/Decision_Making_with_GA_using_DEAP.ipynb
+United States Census Bureau. (2020). County Population by Characteristics: 2010-2019. Retrieved from United States Census Bureau: https://www.census.gov/content/census/en/data/datasets/time-series/demo/popest/2010s-counties-detail.html
