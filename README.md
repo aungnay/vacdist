@@ -82,8 +82,7 @@ Started with population parameters based on Alajmi & Wright's finding showing it
 | Converge Gen | 9 | 4 | 24 | 37 | 27 | 55 | 79 |
 
 ![Image of Set 7 Run 2](./img/Figure_07b.png)
-The above image shows the stats from the Set 7 Run 2.
-Here, we can observe from the table that the best solution has a positive correlation to the change in population. The same can be said about the CPU time as well. Below are the counties as well as their risk rank that was generated as the best solution on Set 7 Run 2.
+The above image shows the stats from the Set 7 Run 2. Below are the counties as well as their risk rank that was generated as the best solution on Set 7 Run 2.
 - Broward County ,  Florida (4th)
 - Ocean County ,  New Jersey (8th)
 - Hudson County ,  New Jersey (34th)
@@ -96,3 +95,8 @@ Here, we can observe from the table that the best solution has a positive correl
 - Cook County ,  Illinois (11th)
 
 As we can see, the list includes 5 FIPS areas with the top 10 worst risk, from all the FIPS areas in 50 states as well as District of Columbia, with exception of areas with NaN rows from CovidActNow. This is an expected result with Genetic Algorithms. GA doesn't produce the perfect optimal solution. But it does however get very close to the optimal solution.
+
+We can also observe from the table that the best solution and CPU time has a positive correlation to the change in population. However, when we plot it, we get a better understand of what's going on.
+
+![Image of Fitness Vs. CPU Time over Generations](./img/fitnessCPUtime.png)
+We can see here that there is a diminishing returns to fitness with regards to running additional generations. However the CPU time is a linear relation. Meaning that there will be a point where it's not worth adding additional generations to get better fitness results as the cost of CPU time will not give us similar level of returns anymore.
