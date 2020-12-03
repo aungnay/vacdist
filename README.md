@@ -67,7 +67,7 @@ where:
 
 ## Findings
 ### SGA Parameters (Population)
-Started with population parameters based on Alajmi & Wright's finding showing it has higher impact on fitness than other parameters.
+Started with population parameters based on Alajmi & Wright's finding showing it has higher impact on fitness than other parameters. Each set has 3 runs using the same DEAP settings. We have a known optimal solution which is 1.1e+10.
 |  | Set 1 | Set 2 | Set 3 | Set 4 | Set 5 | Set 6 | Set 7 |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
 | Genes | 10 | 10 | 10 | 10 | 10 | 10 |
@@ -80,3 +80,17 @@ Started with population parameters based on Alajmi & Wright's finding showing it
 | CPU Time (Sec) | 68 | 242 | 508 | 843 | 1693 | 1022 | 1020 |
 | Best Solution | 9.2e+08 | 2.9e+09 | 2.8e+09 | 5.0e+09 | 6.0e+09 | 8.9e+09 | 9.1e+09 |
 | Converge Gen | 9 | 4 | 24 | 37 | 27 | 55 | 79 |
+![Image of Set 7 Run 2](./img/Figure_07b.png)
+The above image shows the stats from the Set 7 Run 2.
+Here, we can observe from the table that the best solution has a positive correlation to the change in population. The same can be said about the CPU time as well. Below are the counties as well as their risk rank that was generated as the best solution on Set 7 Run 2.
+- Broward County ,  Florida (4th)
+- Ocean County ,  New Jersey (8th)
+- Hudson County ,  New Jersey (34th)
+- Hampden County ,  Massachusetts (42nd)
+- Clark County ,  Nevada (1st)
+- Maricopa County ,  Arizona (9th)
+- Tarrant County ,  Texas (17th)
+- Essex County ,  Massachusetts (10th)
+- Middlesex County ,  Massachusetts (13th)
+- Cook County ,  Illinois (11th)
+As we can see, the list includes 5 FIPS areas with the top 10 worst risk, from all the FIPS areas in 50 states as well as District of Columbia, with exception of areas with NaN rows from CovidActNow. This is an expected result with Genetic Algorithms. GA doesn't produce the perfect optimal solution. But it does however get very close to the optimal solution.
