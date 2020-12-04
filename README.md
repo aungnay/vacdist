@@ -53,7 +53,7 @@ Since, CDC’s age bins do not exactly match up with Census Bureau’s, I change
 ### DEAP eaSimple
 DEAP used Chapter 7 (Introduction to evolutionary algorithms) of Back, Fogel and Michalewicz, “Evolutionary Computation 1 : Basic Algorithms and Operators”, 2000.
 It’s based on Genetic algorithms, Evolution strategies, and Evolutionary programming methods.
-You can tweak the parameters to use it as Simple Genetic Algorith, which is how I have used it for this project.
+You can tweak the parameters to use it as Simple Genetic Algorithm, which is how I have used it for this project.
 
 #### eaSimple Pseudocode
 ![Image of esSimple Pseudocode](./img/eaSimple.png)
