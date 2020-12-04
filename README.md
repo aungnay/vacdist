@@ -99,7 +99,23 @@ As we can see, the list includes 5 FIPS areas with the top 10 worst risk, from a
 We can also observe from the table that the best solution and CPU time has a positive correlation to the change in population. However, when we plot it, we get a better understand of what's going on.
 
 ![Image of Fitness Vs. CPU Time over Generations](./img/fitnessCPUtime.png)
-We can see here that there is a diminishing returns to fitness with regards to running additional generations. However the CPU time is a linear relation. Meaning that there will be a point where it's not worth adding additional generations to get better fitness results as the cost of CPU time will not give us similar level of returns anymore.
+We can see here that there is a diminishing returns to fitness with regards to running additional generations. However, the CPU time is a linear relation. Meaning that there will be a point where it's not worth adding additional generations to get better fitness results as the cost of CPU time will not give us similar level of returns anymore.
+
+### SGA Parameters (HallofFame)
+|  | Set 7 | Set 8 |
+| --------------- | --------------- | --------------- |
+| Genes | 10 | 10 |
+| Population | 300 | 300 |
+| crossover | 1-pt (0.75) | 1-pt (0.75) |
+| Mutation | Uni (0.1) | Uni (0.1) |
+| Selection | Roulette | Roulette |
+| Generations | 100 | 100 |
+| HallOfFame | None | 10 |
+| CPU Time (Sec) | 1020 | 1037 |
+| Best Solution | 9.1e+09 | 7.1e+09 |
+| Converge Gen | 79 | 73 |
+
+HallOfFame (Set 8): Improvements in fitness were not observed. If anything, there seems to be higher selection pressure and ends up with a premature convergence. There were no real change on processing time.
 
 ## References
 Alajmi, A., & Wright, J. (2014, June). Selecting the most efficient genetic algorithm sets in solving unconstrained building optimization problem. International Journal of Sustainable Built Environment, 3(1), 18-26.
