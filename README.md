@@ -66,8 +66,10 @@ where:
 - Θ_s (theta_s): selection criterion
 
 ## Findings
+Findings are based on 2019 census estimates and CovidActNow data as of 14:09 on 11/30/2020. Each set has 3 runs using different DEAP settings on base M1 Macbook Air (Late 2020). We also have a known optimal solution which is 1.1e+10.
+
 ### SGA_Parameters (Population)
-Started with population parameters based on Alajmi & Wright's finding showing it has higher impact on fitness than other parameters. Each set has 3 runs using the same DEAP settings on base M1 Macbook Air (Late 2020). We also have a known optimal solution which is 1.1e+10.
+Started with population parameters based on Alajmi & Wright's finding showing it has higher impact on fitness than other parameters.
 
 |  | Set 1 | Set 2 | Set 3 | Set 4 | Set 5 | Set 6 | Set 7 |
 | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | --------------- |
