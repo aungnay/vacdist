@@ -1,0 +1,729 @@
+Run01 (P_m= 0.1, P_c=0.75, Pop=5, ngen=500, cx1Point, mutUnifrom, Roulette)
+68.076956458
+Converged around 2nd generation
+(768,234,794.5865486,)
+Petersburg city ,  Virginia
+Norfolk County ,  Massachusetts
+Dimmit County ,  Texas
+Caroline County ,  Maryland
+Wicomico County ,  Maryland
+Del Norte County ,  California
+Bradley County ,  Tennessee
+Culpeper County ,  Virginia
+Jackson County ,  Missouri
+Codington County ,  South Dakota
+69.079993541
+Converged around 9th generation
+(918356000.1631186,)
+Fillmore County ,  Minnesota
+Starr County ,  Texas
+Panola County ,  Texas
+Kern County ,  California
+Alexandria city ,  Virginia
+Laurel County ,  Kentucky
+Iron County ,  Missouri
+Chatham County ,  North Carolina
+Cherokee County ,  Georgia
+Passaic County ,  New Jersey
+70.302439916
+Converged around 2nd generation
+(488756769.26069546,)
+Stutsman County ,  North Dakota
+Spokane County ,  Washington
+Gonzales County ,  Texas
+Maries County ,  Missouri
+Tehama County ,  California
+Levy County ,  Florida
+Wythe County ,  Virginia
+Lincoln County ,  West Virginia
+Elkhart County ,  Indiana
+Allen Parish ,  Louisiana
+
+Run02 (P_m= 0.1, P_c=0.75, Pop=15, ngen=500, cx1Point, mutUnifrom, Roulette)
+242.32095875
+Converged around 10th generation
+(1,597,752,181.3984208,)
+Cook County ,  Illinois
+Stanton County ,  Nebraska
+Boone County ,  Arkansas
+Meeker County ,  Minnesota
+Harris County ,  Texas
+Southampton County ,  Virginia
+Culberson County ,  Texas
+Steuben County ,  New York
+Washington County ,  Minnesota
+Polk County ,  Georgia
+239.833344917
+Converged around 8th generation
+(2007108192.2201319,)
+Washington County ,  Utah
+Gallia County ,  Ohio
+Monmouth County ,  New Jersey
+Orange County ,  North Carolina
+Whitley County ,  Indiana
+Stevens County ,  Kansas
+Spokane County ,  Washington
+Kent County ,  Michigan
+Miami County ,  Ohio
+Tulsa County ,  Oklahoma
+240.222629458
+Converged around 4th generation
+(2942797257.911313,)
+Los Angeles County ,  California
+Passaic County ,  New Jersey
+Knox County ,  Maine
+Newport County ,  Rhode Island
+Duplin County ,  North Carolina
+Yell County ,  Arkansas
+Kern County ,  California
+Taylor County ,  West Virginia
+Harris County ,  Texas
+Richland County ,  South Carolina
+
+Run03 (P_m= 0.1, P_c=0.75, Pop=30, ngen=500, cx1Point, mutUnifrom, Roulette)
+507.79655883399994
+Converged around 40th generation
+(2,359,775,139.052357,)
+Morris County ,  New Jersey
+Nassau County ,  New York
+Hampden County ,  Massachusetts
+Montgomery County ,  Ohio
+Greensville County ,  Virginia
+Darke County ,  Ohio
+Tarrant County ,  Texas
+Dimmit County ,  Texas
+Atkinson County ,  Georgia
+Will County ,  Illinois
+502.998334708
+Converged around 19th generation
+(1452633323.939269,)
+San Mateo County ,  California
+Randolph County ,  North Carolina
+Limestone County ,  Texas
+Pueblo County ,  Colorado
+Riverside County ,  California
+Merrick County ,  Nebraska
+Kent County ,  Rhode Island
+Cuyahoga County ,  Ohio
+Sacramento County ,  California
+Lauderdale County ,  Tennessee
+515.1479517920001
+Converged around 24th generation
+(2820805727.0559564,)
+Robeson County ,  North Carolina
+Preble County ,  Ohio
+Thomas County ,  Kansas
+Falls County ,  Texas
+Dallas County ,  Texas
+Mercer County ,  New Jersey
+Seminole County ,  Florida
+Middlesex County ,  Massachusetts
+Butler County ,  Kentucky
+Anderson County ,  Texas
+
+Run04 (P_m= 0.1, P_c=0.75, Pop=50, ngen=500, cx1Point, mutUnifrom, Roulette)
+843.077467625
+Converged around 100th generation
+(4,161,087,899.766396,)
+El Paso County ,  Texas
+Hudson County ,  New Jersey
+Middlesex County ,  Massachusetts
+Osceola County ,  Florida
+Washington County ,  Pennsylvania
+Carbon County ,  Montana
+Baltimore County ,  Maryland
+Macomb County ,  Michigan
+Morris County ,  New Jersey
+Wheeler County ,  Georgia
+847.7079101659999
+Converged around 37th generation
+(5001213091.314191,)
+Bullock County ,  Alabama
+Los Angeles County ,  California
+Bergen County ,  New Jersey
+Essex County ,  Massachusetts
+Wabasha County ,  Minnesota
+Denton County ,  Texas
+Cook County ,  Illinois
+Fort Bend County ,  Texas
+Milam County ,  Texas
+Prince William County ,  Virginia
+849.0793146249999
+Converged around 29th generation
+(3662771236.0793343,)
+Butler County ,  Pennsylvania
+Broward County ,  Florida
+Lane County ,  Oregon
+Grant County ,  New Mexico
+Camden County ,  New Jersey
+Alameda County ,  California
+Anoka County ,  Minnesota
+Dauphin County ,  Pennsylvania
+Dallas County ,  Texas
+Somerset County ,  New Jersey
+
+Run05 (P_m= 0.1, P_c=0.75, Pop=100, ngen=500, cx1Point, mutUnifrom, Roulette)
+1676.7556122489998
+Converged around 30th generation
+(3,379,452,315.9355445,)
+Greene County ,  Pennsylvania
+Bernalillo County ,  New Mexico
+Essex County ,  Massachusetts
+Colorado County ,  Texas
+Chemung County ,  New York
+Caroline County ,  Maryland
+Collin County ,  Texas
+New Haven County ,  Connecticut
+Burlington County ,  New Jersey
+Prince George's County ,  Maryland
+1692.66664475
+Converged around 27th generation
+(5,967,661,294.453016,)
+Bristol County ,  Massachusetts
+Miami-Dade County ,  Florida
+Kane County ,  Illinois
+Prince William County ,  Virginia
+Brown County ,  Texas
+Los Angeles County ,  California
+Middlesex County ,  Massachusetts
+Baltimore County ,  Maryland
+Yolo County ,  California
+Anderson County ,  Tennessee
+2168.5538294 (Ryzen)
+Converged around 23rd generation
+(5842191623.216697,)
+La Salle County ,  Texas
+Los Angeles County ,  California
+Boone County ,  Arkansas
+Monmouth County ,  New Jersey
+Broward County ,  Florida
+New Haven County ,  Connecticut
+Hampden County ,  Massachusetts
+Passaic County ,  New Jersey
+Prentiss County ,  Mississippi
+Middlesex County ,  New Jersey
+
+Run06 (P_m= 0.1, P_c=0.75, Pop=200, ngen=150, cx1Point, mutUnifrom, Roulette)
+1022.3299241670001
+Converged around 55th generation
+(8915302321.3128,)
+Clark County ,  Nevada
+Baltimore County ,  Maryland
+Cook County ,  Illinois
+Burlington County ,  New Jersey
+Los Angeles County ,  California
+Maricopa County ,  Arizona
+Suffolk County ,  Massachusetts
+Bergen County ,  New Jersey
+Guilford County ,  North Carolina
+Broward County ,  Florida
+1325.3901844 (Ryzen)
+Converged around 51st generation
+(6222059280.3820095,)
+Marion County ,  Indiana
+Tarrant County ,  Texas
+Essex County ,  New Jersey
+Worcester County ,  Massachusetts
+Clark County ,  Nevada
+Cook County ,  Illinois
+Ocean County ,  New Jersey
+Camden County ,  New Jersey
+St. Louis County ,  Missouri
+Woodford County ,  Illinois
+1308.8061032 (Ryzen)
+Converged around 94th generation
+(5516354166.511421,)
+Kenosha County ,  Wisconsin
+Suffolk County ,  Massachusetts
+Wayne County ,  Michigan
+Middlesex County ,  New Jersey
+Los Angeles County ,  California
+Tarrant County ,  Texas
+Norfolk County ,  Massachusetts
+Maricopa County ,  Arizona
+Arapahoe County ,  Colorado
+Boone County ,  West Virginia
+
+Run07 (P_m= 0.1, P_c=0.75, Pop=300, ngen=100, cx1Point, mutUnifrom, Roulette)
+1020.0887710419998
+Converged around 45th generation
+(7,564,318,001.337723,)
+Monmouth County ,  New Jersey
+Middlesex County ,  Massachusetts
+Dallas County ,  Texas
+Clark County ,  Nevada
+Denton County ,  Texas
+New York County ,  New York
+Lee County ,  Florida
+Bexar County ,  Texas
+Harris County ,  Texas
+Prince William County ,  Virginia
+1026.449657583
+Converged around 57th generation
+(8362205390.627039,)
+Broward County ,  Florida
+San Diego County ,  California
+Kent County ,  Michigan
+Dallas County ,  Texas
+Macoupin County ,  Illinois
+Clark County ,  Nevada
+Greene County ,  Ohio
+Clackamas County ,  Oregon
+Los Angeles County ,  California
+Middlesex County ,  Massachusetts
+1020.2748188330002
+Converged around 79th generation
+(9120126774.372084,)
+Broward County ,  Florida
+Ocean County ,  New Jersey
+Hudson County ,  New Jersey
+Hampden County ,  Massachusetts
+Clark County ,  Nevada
+Maricopa County ,  Arizona
+Tarrant County ,  Texas
+Essex County ,  Massachusetts
+Middlesex County ,  Massachusetts
+Cook County ,  Illinois
+1024.7025370420001
+Converged around 24th generation
+(6490600183.502752,)
+Los Angeles County ,  California
+Baltimore County ,  Maryland
+Lackawanna County ,  Pennsylvania
+Benton County ,  Iowa
+Miami-Dade County ,  Florida
+Broward County ,  Florida
+Tulsa County ,  Oklahoma
+Lee County ,  Florida
+Washington County ,  Minnesota
+Gwinnett County ,  Georgia
+
+Run08 (P_m= 0.1, P_c=0.75, Pop=300, ngen=100, cx1Point, mutUnifrom, Roulette,hof)
+1037.565099542
+Converged around 73rd generation
+(7128114009.435658,)
+Miami-Dade County ,  Florida
+San Bernardino County ,  California
+Cook County ,  Illinois
+Henry County ,  Georgia
+Broward County ,  Florida
+Los Angeles County ,  California
+Hancock County ,  West Virginia
+Bexar County ,  Texas
+Hennepin County ,  Minnesota
+Middlesex County ,  New Jersey
+1320.9167293 (Ryzen)
+Converged around 68th generation
+(6346946915.242491,)
+Bergen County ,  New Jersey
+Maricopa County ,  Arizona
+Ocean County ,  New Jersey
+Talladega County ,  Alabama
+Palm Beach County ,  Florida
+Tarrant County ,  Texas
+Howard County ,  Maryland
+Shelby County ,  Tennessee
+Dallas County ,  Texas
+Middlesex County ,  Massachusetts
+
+
+Run09 (P_m= 0.1, P_c=0, Pop=300, ngen=100, cx1Point, mutUnifrom, Roulette)
+148.82677112500002
+Not much change
+(2440955674.3192754,)
+McLean County ,  North Dakota
+Geary County ,  Kansas
+Union County ,  New Jersey
+Christian County ,  Kentucky
+Lake County ,  Florida
+Minnehaha County ,  South Dakota
+Boone County ,  Indiana
+Madison County ,  Ohio
+Iron County ,  Wisconsin
+Clark County ,  Nevada
+150.5439345
+Not much change
+(2014393508.1266673,)
+Webster County ,  Missouri
+Madison County ,  Montana
+Franklin Parish ,  Louisiana
+Phillips County ,  Montana
+Cherokee County ,  Oklahoma
+Richmond County ,  Virginia
+Klamath County ,  Oregon
+Campbell County ,  Kentucky
+Sheboygan County ,  Wisconsin
+Clark County ,  Nevada
+187.8099944 (Ryzen)
+Not much change
+(2324730714.247881,)
+Kent County ,  Michigan
+Hampden County ,  Massachusetts
+Will County ,  Illinois
+Darlington County ,  South Carolina
+Nome Census Area ,  Alaska
+Hardin County ,  Kentucky
+Shelby County ,  Tennessee
+Liberty County ,  Georgia
+Middlesex County ,  New Jersey
+Dutchess County ,  New York
+
+Run10 (P_m= 0, P_c=0.75, Pop=300, ngen=100, cx1Point, mutUnifrom, Roulette)
+967.404543666
+Doesn’t converge
+(7741218160.37286,)
+Essex County ,  New Jersey
+Riverside County ,  California
+Macomb County ,  Michigan
+Monmouth County ,  New Jersey
+Middlesex County ,  Massachusetts
+Dallas County ,  Texas
+Perry County ,  Ohio
+Clark County ,  Nevada
+Armstrong County ,  Pennsylvania
+Broward County ,  Florida
+1781.1469224 (Ryzen)
+Doesn’t converge
+(6867221121.484955,)
+Callaway County ,  Missouri
+Clark County ,  Nevada
+New Haven County ,  Connecticut
+Bergen County ,  New Jersey
+Middlesex County ,  New Jersey
+Camden County ,  New Jersey
+Anne Arundel County ,  Maryland
+Cook County ,  Illinois
+Lee County ,  Florida
+Bexar County ,  Texas
+1268.5815607 (Ryzen)
+Doesn’t converge
+(7221636701.3062935,)
+Polk County ,  Iowa
+Middlesex County ,  Massachusetts
+Broward County ,  Florida
+Burlington County ,  New Jersey
+Santa Clara County ,  California
+Cook County ,  Illinois
+Dakota County ,  Minnesota
+Maricopa County ,  Arizona
+Alamance County ,  North Carolina
+Clark County ,  Nevada
+
+Run11 (P_m= 0.1, P_c=0.6, Pop=300, ngen=100, cx1Point, mutUnifrom, Roulette)
+838.523013834
+Converged around 40th generation
+(8903111308.985968,)
+Los Angeles County ,  California
+Miami-Dade County ,  Florida
+Worcester County ,  Massachusetts
+Broward County ,  Florida
+Monmouth County ,  New Jersey
+Maricopa County ,  Arizona
+Cook County ,  Illinois
+Pinal County ,  Arizona
+Bergen County ,  New Jersey
+Bexar County ,  Texas
+842.0542883749999
+Converged around 66th generation
+(7155873075.525387,)
+Bexar County ,  Texas
+Ocean County ,  New Jersey
+Burlington County ,  New Jersey
+Androscoggin County ,  Maine
+Essex County ,  Massachusetts
+Monmouth County ,  New Jersey
+Broward County ,  Florida
+Clay County ,  Arkansas
+Lee County ,  Florida
+Clark County ,  Nevada
+843.916915291
+Converged around 78th generation
+(7669910312.089897,)
+Miami-Dade County ,  Florida
+Essex County ,  Massachusetts
+Dallas County ,  Texas
+Imperial County ,  California
+Clark County ,  Nevada
+Shelby County ,  Tennessee
+Bernalillo County ,  New Mexico
+Montgomery County ,  Maryland
+Pasquotank County ,  North Carolina
+Los Angeles County ,  California
+
+Run12 (P_m= 0.1, P_c=0.9, Pop=300, ngen=100, cx1Point, mutUnifrom, Roulette)
+1199.3350178340002
+Converged around 45th generation
+(6283987786.292174,)
+New London County ,  Connecticut
+St. John the Baptist Parish ,  Louisiana
+Los Angeles County ,  California
+Brown County ,  Ohio
+Carroll County ,  Maryland
+Clark County ,  Nevada
+Hudson County ,  New Jersey
+Fresno County ,  California
+Cook County ,  Illinois
+Miami-Dade County ,  Florida
+2050.7776705 (Ryzen)
+Converged around 55th generation
+(8213280349.221132,)
+Los Angeles County ,  California
+Broward County ,  Florida
+Tulsa County ,  Oklahoma
+Suffolk County ,  Massachusetts
+Dallas County ,  Texas
+Alamance County ,  North Carolina
+King County ,  Washington
+Worcester County ,  Massachusetts
+Maricopa County ,  Arizona
+Middlesex County ,  Massachusetts
+1833.5997602 (Ryzen)
+Converged around 55th generation
+(9626198110.684464,)
+Dallas County ,  Texas
+Lee County ,  Florida
+Camden County ,  New Jersey
+Broward County ,  Florida
+Clark County ,  Washington
+Los Angeles County ,  California
+Miami-Dade County ,  Florida
+Essex County ,  Massachusetts
+Clark County ,  Nevada
+Bergen County ,  New Jersey
+
+Run13 (P_m= 1/300, P_c=0.75, Pop=300, ngen=100, cx1Point, mutUnifrom, Roulette)
+969.385766375
+Converged around 54th generation
+(6183061803.770764,)
+Broward County ,  Florida
+Montgomery County ,  North Carolina
+Macomb County ,  Michigan
+Orange County ,  California
+Essex County ,  Massachusetts
+Bergen County ,  New Jersey
+San Diego County ,  California
+Lancaster County ,  Pennsylvania
+Norfolk County ,  Massachusetts
+Bristol County ,  Massachusetts
+993.694704333
+Converged around 43th generation
+(7136562203.7665,)
+Clark County ,  Nevada
+Dallas County ,  Texas
+Bexar County ,  Texas
+Harris County ,  Texas
+Lee County ,  Florida
+Stevens County ,  Washington
+Worcester County ,  Massachusetts
+Palm Beach County ,  Florida
+Alexandria city ,  Virginia
+Middlesex County ,  Massachusetts
+1269.15955 (Ryzen)
+Converged around 49th generation
+(8749281681.166393,)
+Bergen County ,  New Jersey
+Clark County ,  Nevada
+Los Angeles County ,  California
+San Bernardino County ,  California
+Columbia County ,  Georgia
+Macomb County ,  Michigan
+San Diego County ,  California
+Lee County ,  Florida
+Passaic County ,  New Jersey
+Broward County ,  Florida
+
+Run14 (P_m= 0.1, P_c=0.75, Pop=300, ngen=100, cx2Point, mutUnifrom, Roulette)
+1016.151767958
+Converged around 43rd generation
+(6699247216.296434,)
+Morris County ,  New Jersey
+Middlesex County ,  New Jersey
+Macomb County ,  Michigan
+Bexar County ,  Texas
+Bergen County ,  New Jersey
+Prince George's County ,  Maryland
+Somerset County ,  New Jersey
+Fairfield County ,  Connecticut
+Essex County ,  Massachusetts
+Broward County ,  Florida
+1315.6009751 (Ryzen)
+Converged around 47th generation
+(8126490846.613338,)
+Chatham County ,  Georgia
+Bexar County ,  Texas
+Bergen County ,  New Jersey
+Worcester County ,  Massachusetts
+Miami-Dade County ,  Florida
+Tarrant County ,  Texas
+Orange County ,  California
+Los Angeles County ,  California
+Luzerne County ,  Pennsylvania
+Broward County ,  Florida
+1035.779007458
+Converged around 40th generation
+(7380820752.586433,)
+Orange County ,  California
+Middlesex County ,  Massachusetts
+Los Angeles County ,  California
+King County ,  Washington
+Wayne County ,  Indiana
+Worcester County ,  Massachusetts
+Hampden County ,  Massachusetts
+Clark County ,  Nevada
+Hunterdon County ,  New Jersey
+Alameda County ,  California
+
+Run15 (P_m= 0.1, P_c=0.75, Pop=300, ngen=100, cx1Point, mutUnifrom, Tournament=64)
+1104.838228583
+Converged around 4th generation
+(6193580923.954455,)
+Tioga County ,  Pennsylvania
+Clark County ,  Nevada
+Broward County ,  Florida
+Oswego County ,  New York
+Dent County ,  Missouri
+Miami-Dade County ,  Florida
+Summit County ,  Ohio
+Gratiot County ,  Michigan
+Los Angeles County ,  California
+Anderson County ,  Texas
+1343.2686504 (Ryzen)
+Converged around 72nd generation
+(5910057514.095804,)
+Box Elder County ,  Utah
+Wood County ,  Texas
+Los Angeles County ,  California
+Clark County ,  Nevada
+Licking County ,  Ohio
+Hardin County ,  Tennessee
+Lawrence County ,  Mississippi
+Berkshire County ,  Massachusetts
+Middlesex County ,  Massachusetts
+Macomb County ,  Michigan
+1317.8471336 (Ryzen)
+Converged around 5th generation
+(5142827933.335678,)
+Hampden County ,  Massachusetts
+Butte County ,  California
+Los Angeles County ,  California
+Seneca County ,  New York
+Ocean County ,  New Jersey
+Denton County ,  Texas
+Napa County ,  California
+Will County ,  Illinois
+Tulsa County ,  Oklahoma
+Bergen County ,  New Jersey
+
+Run16 (P_m= 0.1, P_c=0.75, Pop=300, ngen=100, cx1Point, mutUnifrom, Best)
+985.0776025
+set0
+(7654805759.991069,)
+Jackson County ,  Missouri
+Broward County ,  Florida
+Bergen County ,  New Jersey
+Ocean County ,  New Jersey
+Tulsa County ,  Oklahoma
+Pinal County ,  Arizona
+Clark County ,  Nevada
+O'Brien County ,  Iowa
+Marion County ,  Indiana
+Middlesex County ,  Massachusetts
+1049.98356625
+set0
+(7828694770.883579,)
+Morris County ,  New Jersey
+Greenville County ,  South Carolina
+Ocean County ,  New Jersey
+Suffolk County ,  New York
+Cook County ,  Illinois
+Orange County ,  California
+Hillsborough County ,  Florida
+Bexar County ,  Texas
+Los Angeles County ,  California
+Clark County ,  Nevada
+1110.447154042
+set0
+(5706713623.255902,)
+Dallas County ,  Texas
+Worcester County ,  Massachusetts
+Lee County ,  Florida
+Jefferson County ,  Colorado
+Marion County ,  Indiana
+Norfolk County ,  Massachusetts
+Bergen County ,  New Jersey
+Union County ,  New Jersey
+Gwinnett County ,  Georgia
+Hampden County ,  Massachusetts
+
+Run17 (P_m= 0.1, P_c=0.75, Pop=300, ngen=100, cx1Point, mutUnifrom, Tournament=128)
+1117.9144671660001
+Converged around 3rd generation
+(4390207082.986866,)
+Greene County ,  New York
+Los Angeles County ,  California
+McDonald County ,  Missouri
+Harris County ,  Texas
+Jackson County ,  Missouri
+Tooele County ,  Utah
+Clark County ,  Nevada
+McDowell County ,  West Virginia
+Macon County ,  Alabama
+Hartford County ,  Connecticut
+1321.6631907 (Ryzen)
+Converged around 3rd generation
+(4971503114.630132,)
+Bristol city ,  Virginia
+Los Angeles County ,  California
+Middlesex County ,  Massachusetts
+Providence County ,  Rhode Island
+Rolette County ,  North Dakota
+Anoka County ,  Minnesota
+Garland County ,  Arkansas
+Goshen County ,  Wyoming
+Ramsey County ,  North Dakota
+Broward County ,  Florida
+
+
+
+Run18 (P_m= 0.1, P_c=0.75, Pop=300, ngen=200, cx1Point, mutUnifrom, Best)
+2143.549351625
+set0
+(4707419189.556142,)
+Middlesex County ,  New Jersey
+Bexar County ,  Texas
+Broward County ,  Florida
+Hillsborough County ,  Florida
+Lee County ,  South Carolina
+Union County ,  New Jersey
+Hudson County ,  New Jersey
+Cabarrus County ,  North Carolina
+Miller County ,  Missouri
+Hampden County ,  Massachusetts
+2187.7045414169997
+set0
+(6000999931.3446455,)
+Monmouth County ,  New Jersey
+Harris County ,  Texas
+Kane County ,  Illinois
+Broward County ,  Florida
+Erie County ,  New York
+Ocean County ,  New Jersey
+Dallas County ,  Texas
+Lackawanna County ,  Pennsylvania
+San Bernardino County ,  California
+Lee County ,  Florida
+2139.701980792
+set0
+(5594631293.126985,)
+Clark County ,  Nevada
+Denton County ,  Texas
+Tarrant County ,  Texas
+Shelby County ,  Tennessee
+Hampden County ,  Massachusetts
+Bernalillo County ,  New Mexico
+York County ,  Pennsylvania
+New York County ,  New York
+St. Joseph County ,  Indiana
+Cook County ,  Illinois
+
+
