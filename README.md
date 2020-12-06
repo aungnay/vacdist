@@ -1,5 +1,5 @@
 # vacdist
-An Exploration of Genetic Algorithm using DEAP: COVID-19 Vaccine Distribution
+An Exploration of Genetic Algorithm using DEAP: COVID-19 Vaccine Distribution Optimization
 
 This is an exercise in exploration of Genetic Algorithm as part of ECE 788: Computational Intelligence class with Prof. Qing Gary Liu at New Jersey Institute of Technology.
 
